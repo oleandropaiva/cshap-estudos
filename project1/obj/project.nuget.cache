@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFbNn0+AHz202NDVVZBpG2iBatZ6tDNsUNroPh0YMqCTjPKmCUD82aJrdBn+dBq+HzE6tPB4qOAQ+yWau13oCQ==",
+  "dgSpecHash": "1tO3iMZwhwbcVhMQf1spfsSOAwnzo+JLsMmuyMJepR1w+f4rV+K0JIuNCbUkEy7RwkXFQJn8IjUZpSdsqH/KiA==",
   "success": true,
-  "projectFilePath": "/home/leandro/c-sharp/C-Sharp/project1/project1.csproj",
+  "projectFilePath": "/home/leandro/C-Sharp/project1/project1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

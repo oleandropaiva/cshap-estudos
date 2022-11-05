@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/leandro/c-sharp/C-Sharp/project1/project1.csproj": {}
+    "/home/leandro/C-Sharp/project1/project1.csproj": {}
   },
   "projects": {
-    "/home/leandro/c-sharp/C-Sharp/project1/project1.csproj": {
+    "/home/leandro/C-Sharp/project1/project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leandro/c-sharp/C-Sharp/project1/project1.csproj",
+        "projectUniqueName": "/home/leandro/C-Sharp/project1/project1.csproj",
         "projectName": "project1",
-        "projectPath": "/home/leandro/c-sharp/C-Sharp/project1/project1.csproj",
+        "projectPath": "/home/leandro/C-Sharp/project1/project1.csproj",
         "packagesPath": "/home/leandro/.nuget/packages/",
-        "outputPath": "/home/leandro/c-sharp/C-Sharp/project1/obj/",
+        "outputPath": "/home/leandro/C-Sharp/project1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/leandro/.nuget/NuGet/NuGet.Config"
