@@ -14,7 +14,9 @@ namespace project2
 
             double idade;
             
+            idade = 7.0 / 5;
 
+            Console.WriteLine(idade);
 
             Console.WriteLine(salario);
 
