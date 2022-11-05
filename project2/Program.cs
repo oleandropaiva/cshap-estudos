@@ -10,7 +10,12 @@ namespace project2
             double salario;
             salario = 3000.10;
 
+            salario = 3000;
+
             Console.WriteLine(salario);
+
+            Console.WriteLine("Tecle enter para fechar...");
+            Console.ReadLine();
         }
     }
 }
