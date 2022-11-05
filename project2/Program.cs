@@ -12,6 +12,10 @@ namespace project2
 
             salario = 3000;
 
+            double idade;
+            
+
+
             Console.WriteLine(salario);
 
             Console.WriteLine("Tecle enter para fechar...");
