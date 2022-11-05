@@ -12,7 +12,7 @@ class Programa
         int idade = 32;
 
         idade = 37;
-        Console.WriteLine(idade);
+        Console.WriteLine("Minha idade é " + idade);
 
         idade = 27 + 5;
         Console.WriteLine(idade);
