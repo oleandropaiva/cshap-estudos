@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/project2/bin/Debug/net6.0/project2
+/home/leandro/C-Sharp/project2/bin/Debug/net6.0/project2.deps.json
+/home/leandro/C-Sharp/project2/bin/Debug/net6.0/project2.runtimeconfig.json
+/home/leandro/C-Sharp/project2/bin/Debug/net6.0/project2.dll
+/home/leandro/C-Sharp/project2/bin/Debug/net6.0/ref/project2.dll
+/home/leandro/C-Sharp/project2/bin/Debug/net6.0/project2.pdb
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.AssemblyInfo.cs
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.dll
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/ref/project2.dll
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.pdb
+/home/leandro/C-Sharp/project2/obj/Debug/net6.0/project2.genruntimeconfig.cache
