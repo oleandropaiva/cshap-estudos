@@ -10,6 +10,7 @@ class Programa
 
         idade = 37;
 
+        Console.WriteLine(idade);
         idade = 27 + 5;
 
         idade = 5 * 2 -6;
