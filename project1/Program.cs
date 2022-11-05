@@ -1,5 +1,7 @@
 ﻿using System;
 
+namespace project1
+{
 class Programa
 {
     static void Main(string[] args)
@@ -20,4 +22,5 @@ class Programa
         Console.WriteLine("Tecle enter para fechar...");
         Console.ReadLine();
     }
-}
+  }
+};
