@@ -1,0 +1,5 @@
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.AssemblyInfo.cs
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.csproj.CoreCompileInputs.cache

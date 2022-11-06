@@ -6,7 +6,8 @@ namespace projConversor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double salario = 1270.50;
+            int valor = salario;
         }
     }
 }
