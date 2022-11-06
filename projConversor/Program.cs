@@ -8,6 +8,8 @@ namespace projConversor
         {
             double salario = 1270.50;
             int valor = (int)salario;
+
+            Console.WriteLine(valor);
         }
     }
 }
