@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.AssemblyInfo.cs
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/conversoesEoutrosTipos/bin/Debug/net6.0/conversoesEoutrosTipos
+/home/leandro/C-Sharp/conversoesEoutrosTipos/bin/Debug/net6.0/conversoesEoutrosTipos.deps.json
+/home/leandro/C-Sharp/conversoesEoutrosTipos/bin/Debug/net6.0/conversoesEoutrosTipos.runtimeconfig.json
+/home/leandro/C-Sharp/conversoesEoutrosTipos/bin/Debug/net6.0/conversoesEoutrosTipos.dll
+/home/leandro/C-Sharp/conversoesEoutrosTipos/bin/Debug/net6.0/ref/conversoesEoutrosTipos.dll
+/home/leandro/C-Sharp/conversoesEoutrosTipos/bin/Debug/net6.0/conversoesEoutrosTipos.pdb
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.dll
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/ref/conversoesEoutrosTipos.dll
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.pdb
+/home/leandro/C-Sharp/conversoesEoutrosTipos/obj/Debug/net6.0/conversoesEoutrosTipos.genruntimeconfig.cache
