@@ -3,3 +3,13 @@
 /home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.AssemblyInfoInputs.cache
 /home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.AssemblyInfo.cs
 /home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/projConversor/bin/Debug/net6.0/projConversor
+/home/leandro/C-Sharp/projConversor/bin/Debug/net6.0/projConversor.deps.json
+/home/leandro/C-Sharp/projConversor/bin/Debug/net6.0/projConversor.runtimeconfig.json
+/home/leandro/C-Sharp/projConversor/bin/Debug/net6.0/projConversor.dll
+/home/leandro/C-Sharp/projConversor/bin/Debug/net6.0/ref/projConversor.dll
+/home/leandro/C-Sharp/projConversor/bin/Debug/net6.0/projConversor.pdb
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.dll
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/ref/projConversor.dll
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.pdb
+/home/leandro/C-Sharp/projConversor/obj/Debug/net6.0/projConversor.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace projConversor
         static void Main(string[] args)
         {
             double salario = 1270.50;
-            int valor = salario;
+            int valor = (int)salario;
         }
     }
 }
