@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/bin/Debug/net6.0/3-TestaPontoFlutuante
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/bin/Debug/net6.0/3-TestaPontoFlutuante.deps.json
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/bin/Debug/net6.0/3-TestaPontoFlutuante.runtimeconfig.json
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/bin/Debug/net6.0/3-TestaPontoFlutuante.dll
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/bin/Debug/net6.0/ref/3-TestaPontoFlutuante.dll
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/bin/Debug/net6.0/3-TestaPontoFlutuante.pdb
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.AssemblyInfo.cs
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.dll
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/ref/3-TestaPontoFlutuante.dll
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.pdb
+/home/leandro/C-Sharp/3-TestaPontoFlutuante/obj/Debug/net6.0/3-TestaPontoFlutuante.genruntimeconfig.cache
