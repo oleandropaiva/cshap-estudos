@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/exerCondicionais/bin/Debug/net6.0/exerCondicionais
+/home/leandro/C-Sharp/exerCondicionais/bin/Debug/net6.0/exerCondicionais.deps.json
+/home/leandro/C-Sharp/exerCondicionais/bin/Debug/net6.0/exerCondicionais.runtimeconfig.json
+/home/leandro/C-Sharp/exerCondicionais/bin/Debug/net6.0/exerCondicionais.dll
+/home/leandro/C-Sharp/exerCondicionais/bin/Debug/net6.0/ref/exerCondicionais.dll
+/home/leandro/C-Sharp/exerCondicionais/bin/Debug/net6.0/exerCondicionais.pdb
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.AssemblyInfo.cs
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.dll
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/ref/exerCondicionais.dll
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.pdb
+/home/leandro/C-Sharp/exerCondicionais/obj/Debug/net6.0/exerCondicionais.genruntimeconfig.cache
