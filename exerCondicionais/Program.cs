@@ -21,7 +21,8 @@ class Programa
         {
             if (quantidadePessoas >= 2)
             {
-                Console.WriteLine("voce nao tem 18, mas pode entrar, pois está acompanhado");
+                Console.WriteLine("voce nao tem 18, mas pode entrar, " +
+                "pois está acompanhado");
 
             }
             else
