@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/condicionais/bin/Debug/net6.0/condicionais
+/home/leandro/C-Sharp/condicionais/bin/Debug/net6.0/condicionais.deps.json
+/home/leandro/C-Sharp/condicionais/bin/Debug/net6.0/condicionais.runtimeconfig.json
+/home/leandro/C-Sharp/condicionais/bin/Debug/net6.0/condicionais.dll
+/home/leandro/C-Sharp/condicionais/bin/Debug/net6.0/ref/condicionais.dll
+/home/leandro/C-Sharp/condicionais/bin/Debug/net6.0/condicionais.pdb
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.AssemblyInfo.cs
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.dll
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/ref/condicionais.dll
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.pdb
+/home/leandro/C-Sharp/condicionais/obj/Debug/net6.0/condicionais.genruntimeconfig.cache
