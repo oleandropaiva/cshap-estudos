@@ -14,8 +14,12 @@ class Programa
     letra = (char)65;
     Console.WriteLine(letra);
 
+    letra = (char)(86 + 1);
+    Console.WriteLine(letra);
+
     Console.WriteLine("Tecle enter para fechar...");
     Console.ReadLine();
+
     }
   }
 };
