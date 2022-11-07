@@ -6,12 +6,21 @@ namespace condicionais
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Executando o projeto Atribuições de Variáveis.");
+          Console.WriteLine("Executando o projeto Condicionais.");
 
-          int idade = 32;
-          int idadeGustavo = idade;
+          int idadeJoão = 16;
 
-          Console.WriteLine(idade);          
+          if (idadeJoão >= 18)
+          {
+            Console.WriteLine("Pode entrar!");
+          }
+          else
+          {
+            Console.WriteLine("Não pode entrar.");
+          }
+
+          Console.WriteLine("Tecle enter para fechar ...");      
+          Console.ReadLine();    
         }
     };
 };
