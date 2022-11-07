@@ -14,6 +14,8 @@ namespace projConversor
           letra = (char)65;
           Console.WriteLine(letra);
 
+          letra = (char)(65 + 1);
+
           Console.WriteLine("Tecle enter para fechar...");
           Console.ReadLine();
         }
