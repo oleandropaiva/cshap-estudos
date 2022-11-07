@@ -11,8 +11,7 @@ namespace atribuicoesDeVariaveis
           int idade = 32;
           int idadeGustavo = idade;
 
-          Console.WriteLine(idade);
-          
+          Console.WriteLine(idade);          
         }
     };
 };
