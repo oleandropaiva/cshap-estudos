@@ -6,3 +6,9 @@ namespace projConversor
     {
         static void Main(string[] args)
         {
+          Console.WriteLine("Executando o projeto.");
+          Console.WriteLine("Tecle enter para fechar...");
+          Console.ReadLine();
+        }
+    };
+};
