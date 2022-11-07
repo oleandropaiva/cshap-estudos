@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/exercicio/bin/Debug/net6.0/exercicio
+/home/leandro/C-Sharp/exercicio/bin/Debug/net6.0/exercicio.deps.json
+/home/leandro/C-Sharp/exercicio/bin/Debug/net6.0/exercicio.runtimeconfig.json
+/home/leandro/C-Sharp/exercicio/bin/Debug/net6.0/exercicio.dll
+/home/leandro/C-Sharp/exercicio/bin/Debug/net6.0/ref/exercicio.dll
+/home/leandro/C-Sharp/exercicio/bin/Debug/net6.0/exercicio.pdb
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.AssemblyInfo.cs
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.dll
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/ref/exercicio.dll
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.pdb
+/home/leandro/C-Sharp/exercicio/obj/Debug/net6.0/exercicio.genruntimeconfig.cache
