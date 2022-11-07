@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/caracteresEtextos/bin/Debug/net6.0/caracteresEtextos
+/home/leandro/C-Sharp/caracteresEtextos/bin/Debug/net6.0/caracteresEtextos.deps.json
+/home/leandro/C-Sharp/caracteresEtextos/bin/Debug/net6.0/caracteresEtextos.runtimeconfig.json
+/home/leandro/C-Sharp/caracteresEtextos/bin/Debug/net6.0/caracteresEtextos.dll
+/home/leandro/C-Sharp/caracteresEtextos/bin/Debug/net6.0/ref/caracteresEtextos.dll
+/home/leandro/C-Sharp/caracteresEtextos/bin/Debug/net6.0/caracteresEtextos.pdb
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.AssemblyInfo.cs
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.dll
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/ref/caracteresEtextos.dll
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.pdb
+/home/leandro/C-Sharp/caracteresEtextos/obj/Debug/net6.0/caracteresEtextos.genruntimeconfig.cache
