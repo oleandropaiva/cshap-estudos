@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/bin/Debug/net6.0/atribuicoesDeVariaveis
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/bin/Debug/net6.0/atribuicoesDeVariaveis.deps.json
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/bin/Debug/net6.0/atribuicoesDeVariaveis.runtimeconfig.json
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/bin/Debug/net6.0/atribuicoesDeVariaveis.dll
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/bin/Debug/net6.0/ref/atribuicoesDeVariaveis.dll
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/bin/Debug/net6.0/atribuicoesDeVariaveis.pdb
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.AssemblyInfo.cs
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.dll
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/ref/atribuicoesDeVariaveis.dll
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.pdb
+/home/leandro/C-Sharp/atribuicoesDeVariaveis/obj/Debug/net6.0/atribuicoesDeVariaveis.genruntimeconfig.cache
