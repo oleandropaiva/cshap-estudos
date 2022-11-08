@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/exprova12/bin/Debug/net6.0/exprova12
+/home/leandro/C-Sharp/exprova12/bin/Debug/net6.0/exprova12.deps.json
+/home/leandro/C-Sharp/exprova12/bin/Debug/net6.0/exprova12.runtimeconfig.json
+/home/leandro/C-Sharp/exprova12/bin/Debug/net6.0/exprova12.dll
+/home/leandro/C-Sharp/exprova12/bin/Debug/net6.0/ref/exprova12.dll
+/home/leandro/C-Sharp/exprova12/bin/Debug/net6.0/exprova12.pdb
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.AssemblyInfo.cs
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.dll
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/ref/exprova12.dll
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.pdb
+/home/leandro/C-Sharp/exprova12/obj/Debug/net6.0/exprova12.genruntimeconfig.cache
