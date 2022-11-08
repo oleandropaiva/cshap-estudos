@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/maiorMenorInt/bin/Debug/net6.0/maiorMenorInt
+/home/leandro/C-Sharp/maiorMenorInt/bin/Debug/net6.0/maiorMenorInt.deps.json
+/home/leandro/C-Sharp/maiorMenorInt/bin/Debug/net6.0/maiorMenorInt.runtimeconfig.json
+/home/leandro/C-Sharp/maiorMenorInt/bin/Debug/net6.0/maiorMenorInt.dll
+/home/leandro/C-Sharp/maiorMenorInt/bin/Debug/net6.0/ref/maiorMenorInt.dll
+/home/leandro/C-Sharp/maiorMenorInt/bin/Debug/net6.0/maiorMenorInt.pdb
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.AssemblyInfo.cs
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.dll
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/ref/maiorMenorInt.dll
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.pdb
+/home/leandro/C-Sharp/maiorMenorInt/obj/Debug/net6.0/maiorMenorInt.genruntimeconfig.cache
