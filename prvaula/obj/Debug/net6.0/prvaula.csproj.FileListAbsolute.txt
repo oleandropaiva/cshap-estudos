@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/prvaula/bin/Debug/net6.0/prvaula
+/home/leandro/C-Sharp/prvaula/bin/Debug/net6.0/prvaula.deps.json
+/home/leandro/C-Sharp/prvaula/bin/Debug/net6.0/prvaula.runtimeconfig.json
+/home/leandro/C-Sharp/prvaula/bin/Debug/net6.0/prvaula.dll
+/home/leandro/C-Sharp/prvaula/bin/Debug/net6.0/ref/prvaula.dll
+/home/leandro/C-Sharp/prvaula/bin/Debug/net6.0/prvaula.pdb
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.AssemblyInfo.cs
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.dll
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/ref/prvaula.dll
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.pdb
+/home/leandro/C-Sharp/prvaula/obj/Debug/net6.0/prvaula.genruntimeconfig.cache
