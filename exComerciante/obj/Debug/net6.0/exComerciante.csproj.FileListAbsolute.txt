@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/exComerciante/bin/Debug/net6.0/exComerciante
+/home/leandro/C-Sharp/exComerciante/bin/Debug/net6.0/exComerciante.deps.json
+/home/leandro/C-Sharp/exComerciante/bin/Debug/net6.0/exComerciante.runtimeconfig.json
+/home/leandro/C-Sharp/exComerciante/bin/Debug/net6.0/exComerciante.dll
+/home/leandro/C-Sharp/exComerciante/bin/Debug/net6.0/ref/exComerciante.dll
+/home/leandro/C-Sharp/exComerciante/bin/Debug/net6.0/exComerciante.pdb
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.AssemblyInfo.cs
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.dll
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/ref/exComerciante.dll
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.pdb
+/home/leandro/C-Sharp/exComerciante/obj/Debug/net6.0/exComerciante.genruntimeconfig.cache
