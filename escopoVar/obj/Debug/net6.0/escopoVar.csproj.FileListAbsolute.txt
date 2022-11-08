@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/escopoVar/bin/Debug/net6.0/escopoVar
+/home/leandro/C-Sharp/escopoVar/bin/Debug/net6.0/escopoVar.deps.json
+/home/leandro/C-Sharp/escopoVar/bin/Debug/net6.0/escopoVar.runtimeconfig.json
+/home/leandro/C-Sharp/escopoVar/bin/Debug/net6.0/escopoVar.dll
+/home/leandro/C-Sharp/escopoVar/bin/Debug/net6.0/ref/escopoVar.dll
+/home/leandro/C-Sharp/escopoVar/bin/Debug/net6.0/escopoVar.pdb
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.AssemblyInfo.cs
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.dll
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/ref/escopoVar.dll
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.pdb
+/home/leandro/C-Sharp/escopoVar/obj/Debug/net6.0/escopoVar.genruntimeconfig.cache
