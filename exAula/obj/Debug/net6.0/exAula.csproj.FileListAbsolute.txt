@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/exAula/bin/Debug/net6.0/exAula
+/home/leandro/C-Sharp/exAula/bin/Debug/net6.0/exAula.deps.json
+/home/leandro/C-Sharp/exAula/bin/Debug/net6.0/exAula.runtimeconfig.json
+/home/leandro/C-Sharp/exAula/bin/Debug/net6.0/exAula.dll
+/home/leandro/C-Sharp/exAula/bin/Debug/net6.0/ref/exAula.dll
+/home/leandro/C-Sharp/exAula/bin/Debug/net6.0/exAula.pdb
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.AssemblyInfo.cs
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.dll
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/ref/exAula.dll
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.pdb
+/home/leandro/C-Sharp/exAula/obj/Debug/net6.0/exAula.genruntimeconfig.cache
