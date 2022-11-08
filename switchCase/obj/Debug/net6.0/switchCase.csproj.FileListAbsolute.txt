@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/switchCase/bin/Debug/net6.0/switchCase
+/home/leandro/C-Sharp/switchCase/bin/Debug/net6.0/switchCase.deps.json
+/home/leandro/C-Sharp/switchCase/bin/Debug/net6.0/switchCase.runtimeconfig.json
+/home/leandro/C-Sharp/switchCase/bin/Debug/net6.0/switchCase.dll
+/home/leandro/C-Sharp/switchCase/bin/Debug/net6.0/ref/switchCase.dll
+/home/leandro/C-Sharp/switchCase/bin/Debug/net6.0/switchCase.pdb
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.AssemblyInfo.cs
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.dll
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/ref/switchCase.dll
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.pdb
+/home/leandro/C-Sharp/switchCase/obj/Debug/net6.0/switchCase.genruntimeconfig.cache
