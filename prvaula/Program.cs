@@ -21,10 +21,10 @@ class Programa
 
         for (int i = 0; i < 15; i++)
         {
-            Console.WriteLine("Digite seu nome: ");
+            Console.WriteLine("Qual é o seu nome: ");
             nome = Console.ReadLine();
 
-            Console.WriteLine("Digite sua idade: ");
+            Console.WriteLine("Qual é a sua idade: ");
             idade = int.Parse(Console.ReadLine());
 
             if (idade >= 18)
@@ -34,22 +34,22 @@ class Programa
 
                 if (carteira == "S" || carteira == "s")
                 {
-                    Console.WriteLine("Você é um motorista!");
+                    Console.WriteLine("Você é o motorista da viagem!");
                     motoristas++;
                 }
                 else
                 {
-                    Console.WriteLine("Você não é um motorista!");
+                    Console.WriteLine("Você não pode ser o motorista!");
                 }
             }
             else
             {
-                Console.WriteLine("Você não é um motorista!");
+                Console.WriteLine("Você não pode ser o motorista!");
             }
 
             if (motoristas == 2)
             {
-                Console.WriteLine("Viagem realizada com sucesso!");
+                Console.WriteLine("Viagem será realizada!");
                 break;
             }
         }
@@ -59,7 +59,8 @@ class Programa
             Console.WriteLine("Viagem não será realizada devido falta de motoristas");
         }
     }
-}
-}
+  }
+};
+
 
 
