@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/exComerciante/tabuada/bin/Debug/net6.0/tabuada
+/home/leandro/C-Sharp/exComerciante/tabuada/bin/Debug/net6.0/tabuada.deps.json
+/home/leandro/C-Sharp/exComerciante/tabuada/bin/Debug/net6.0/tabuada.runtimeconfig.json
+/home/leandro/C-Sharp/exComerciante/tabuada/bin/Debug/net6.0/tabuada.dll
+/home/leandro/C-Sharp/exComerciante/tabuada/bin/Debug/net6.0/ref/tabuada.dll
+/home/leandro/C-Sharp/exComerciante/tabuada/bin/Debug/net6.0/tabuada.pdb
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.AssemblyInfo.cs
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.dll
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/ref/tabuada.dll
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.pdb
+/home/leandro/C-Sharp/exComerciante/tabuada/obj/Debug/net6.0/tabuada.genruntimeconfig.cache
