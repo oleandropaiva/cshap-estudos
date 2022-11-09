@@ -22,15 +22,14 @@ namespace Matematica
 
                 if (resposta == soma)
                 {
-                    Console.WriteLine("Resposta correta!");
+                    Console.WriteLine("Parabéns!! Resposta correta! :)");
                     acertos++;
                 }
                 else
                 {
-                    Console.WriteLine("Resposta incorreta!");
+                    Console.WriteLine("Xiii!!! Resposta incorreta! :(");
                 }
             }
-
             Console.WriteLine("Você acertou {0} de 5 questões.", acertos);
         }
     }
