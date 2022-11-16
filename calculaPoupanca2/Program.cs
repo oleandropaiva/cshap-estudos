@@ -1,4 +1,7 @@
 ﻿using System;
+
+namespace MyNamespace
+{
     class Program
     {
         static void Main(string[] args)
@@ -9,12 +12,12 @@
             // rendimento de 0.5 (0.005) ao mês
 
             valorInvestido  =  valorInvestido  + valorInvestido *  0.005;
-            Console.WriteLine(valorInvestido);
+            Console.WriteLine("Após um mês, você terá " + valorInvestido);
 
 
             Console.WriteLine("Tecle enter para fechar ...");
             Console.ReadLine();
     }
   }
-
+}
 

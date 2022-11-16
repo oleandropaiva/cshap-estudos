@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/calculaPoupanca2/bin/Debug/net6.0/calculaPoupanca2
+/home/leandro/C-Sharp/calculaPoupanca2/bin/Debug/net6.0/calculaPoupanca2.deps.json
+/home/leandro/C-Sharp/calculaPoupanca2/bin/Debug/net6.0/calculaPoupanca2.runtimeconfig.json
+/home/leandro/C-Sharp/calculaPoupanca2/bin/Debug/net6.0/calculaPoupanca2.dll
+/home/leandro/C-Sharp/calculaPoupanca2/bin/Debug/net6.0/ref/calculaPoupanca2.dll
+/home/leandro/C-Sharp/calculaPoupanca2/bin/Debug/net6.0/calculaPoupanca2.pdb
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.AssemblyInfo.cs
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.dll
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/ref/calculaPoupanca2.dll
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.pdb
+/home/leandro/C-Sharp/calculaPoupanca2/obj/Debug/net6.0/calculaPoupanca2.genruntimeconfig.cache
