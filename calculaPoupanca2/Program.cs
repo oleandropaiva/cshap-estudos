@@ -18,7 +18,7 @@ namespace MyNamespace
               valorInvestido  =  valorInvestido  + valorInvestido *  0.005;
               Console.WriteLine("Após um mês, você terá " + valorInvestido);
 
-              mes = mes + 1;
+              mes += 1;
             }
 
 
