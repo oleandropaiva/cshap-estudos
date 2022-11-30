@@ -44,6 +44,6 @@ class Programa
         Console.WriteLine("Tecle enter para fechar...");
         Console.ReadLine();
     }
-  }
+    }
 };
 

@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/orientObj/bin/Debug/net6.0/orientObj
+/home/leandro/C-Sharp/orientObj/bin/Debug/net6.0/orientObj.deps.json
+/home/leandro/C-Sharp/orientObj/bin/Debug/net6.0/orientObj.runtimeconfig.json
+/home/leandro/C-Sharp/orientObj/bin/Debug/net6.0/orientObj.dll
+/home/leandro/C-Sharp/orientObj/bin/Debug/net6.0/ref/orientObj.dll
+/home/leandro/C-Sharp/orientObj/bin/Debug/net6.0/orientObj.pdb
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.AssemblyInfo.cs
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.dll
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/ref/orientObj.dll
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.pdb
+/home/leandro/C-Sharp/orientObj/obj/Debug/net6.0/orientObj.genruntimeconfig.cache
