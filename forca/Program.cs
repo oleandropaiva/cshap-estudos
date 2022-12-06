@@ -53,8 +53,103 @@ Random numAleat = new Random(); // gera número aleatório para escolher a palav
             //Stopwatch stopwatch = Stopwatch.StartNew(); //outra forma para marcar tempo
             #endregion
 
-            
+          Animacao("inicio"); // chama função definida abaixo que exibe uma vinheta de abertura
 
+            // imprime o nome da equipe
+            Console.WriteLine($"\n\n\n Criado por: {equipe}");
+            foreach (string prog in programadores)
+            {
+                Thread.Sleep(500); // aguarda por 500 milissegundos
+                Console.WriteLine($"  - {prog}");
+            }
+            Thread.Sleep(500);
+            Console.WriteLine("\n Pressione qualquer tecla para continuar...");
+            Console.ReadKey(true); //aguarda até o jogador pressionar alguma tecla; true indica que a tecla não aparecerá no console
+            
+ do //inicio jogo
+            {
+                #region preparação início partida
+                //preparação para nova partida
+                ganhou = perdeu = false;
+                totalJogos++;
+                linha = numAleat.Next(1, matrizDePalavras.GetLength(0));  // gera um número entre 1 e tamanho do primeiro índice da matriz (linha 0 é só dicas)
+                coluna = numAleat.Next(0, matrizDePalavras.GetLength(1)); // gera um número entre 0 e tamanho do segundo índice da matriz
+                //linha = 1;
+                //coluna = 0;
+                //Console.WriteLine($"Linha = {linha}; Coluna = {coluna}");
+                //Console.WriteLine($"Dica = {matrizDePalavras[0, coluna]}");
+                //Console.WriteLine($"Palavra = {matrizDePalavras[linha, coluna]}");
+                dica = matrizDePalavras[0, coluna];
+                palavra = matrizDePalavras[linha, coluna].ToLower();
+                auxPalavra = palavra;
+                letrasUsadas = "";
+                palavraOculta = string.Concat(Enumerable.Repeat("_ ", palavra.Length));
+                //palavraOculta = "";
+                //for (int i = 0; i < palavra.Length; i++)
+                //{
+                //    palavraOculta += "_ ";
+                //}
+                erros = 0;
+                palavrasJogadas = palavra + "; " + palavrasJogadas;
+                Console.Clear();
+                //auxMoldura = "";
+                mensagemInicial = $"| A palavra é um(a) {dica} e tem {palavra.Length} letras. |";
+                //for (int i = 0; i < (mensagemInicial.Length - 2); i++ ) {
+                //    auxMoldura = auxMoldura + "-";
+                //};
+                auxMoldura = new string('-', (mensagemInicial.Length-2));
+                auxMoldura = "+" + auxMoldura + "+";
+                Console.WriteLine($"\n\n {auxMoldura}");
+                Console.WriteLine($" {mensagemInicial}");
+                Console.WriteLine($" {auxMoldura}");
+                Console.WriteLine("\n Pressione qualquer tecla para continuar...");
+                Console.ReadKey(true);
+                #endregion
+                do //inicio partida
+                {
+                    #region lógica do jogo
+                    //pedir nova letra para jogador
+                    do
+                    {
+                        TelaJogo(erros, palavraOculta, dica, letrasUsadas);
+                        Console.Write($" Digite uma letra entre a e z (sem acentos): ");
+                        letra = Console.ReadLine().ToLower();
+                    } while (!LetraValida(letra, letrasUsadas)); // chama função definida abaixo para validar a letra
+
+                    letrasUsadas = letrasUsadas + letra + " "; // acrescenta nova letra na lista de usadas
+                    
+                    //procurar letra na palavra-chave
+                    if (auxPalavra.IndexOf(letra) == -1) //letra não encontrada na palavra
+                    {
+                        erros++;
+                        Console.Clear();
+                        Console.WriteLine("\n\n **************************************************");
+                        Console.WriteLine(" ! A letra digitada não existe na palavra - chave !");
+                        Console.WriteLine($" ! Você errou {erros} {(erros > 1 ? "vezes!" : "vez!  ")}                            !");
+                        Console.WriteLine(" **************************************************");
+                        Console.WriteLine($"\n Pressione qualquer tecla para continuar...");
+                        Console.ReadKey(true);
+
+                    }
+                    else //letra encontrda
+                    {
+                        posLetra = 0;
+                        while (posLetra != -1) // substitui todas a ocorrências da letra na variável de controle auxPalavra por um * e inclui em todas as respectivas posições em palavraOculta
+                        {
+                            posLetra = auxPalavra.IndexOf(letra);
+                            if (posLetra != -1)
+                            {
+                                //Console.WriteLine(posLetra);
+                                auxPalavra = auxPalavra.Remove(posLetra, 1).Insert(posLetra, "*");
+                                palavraOculta = palavraOculta.Remove(posLetra * 2, 1).Insert(posLetra * 2, letra); //substitui o underline na string oculta;
+                                                        //multiplica por 2 pois a string tem o dobro do tamanho da palavra original (underline e espaço para cada caracter)
+                                                        //para facilitar a visualização: "teste" seria representado por _ _ _ _ _ 
+                                //Console.WriteLine(auxPalavra);
+                                //Console.WriteLine(palavraOculta);
+                            }
+                        }
+                    }
+                    
 
 
 
