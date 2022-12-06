@@ -149,7 +149,120 @@ Random numAleat = new Random(); // gera número aleatório para escolher a palav
                             }
                         }
                     }
-                    
+
+                    //verifica se as condições de vitória ou derrota foram atingidas
+                    if (erros == 6)
+                    {
+                        perdeu = true;
+                    }
+                    if (palavraOculta.IndexOf("_") == -1) //caso não encontre mais underlines em palavraOculta, jogador adivinhou palavra
+                    {
+                        ganhou = true;
+                    }
+                    #endregion
+                } while (!ganhou && !perdeu); // continua enquanto ganhou e perdeu forem false
+
+                #region verifica vitória ou derrota
+                if (ganhou)
+                {
+                    numVitorias++;
+                    palavrasAcertou = palavra + "; " + palavrasAcertou;// acrescenta nova palavra na lista de vitórias
+                    Animacao("acertou");
+                }
+                else
+                {
+                    Animacao("perdeu");
+                }
+                #endregion
+
+                #region nova partida
+                //perguntar se jogador que nova partida
+                do
+                {
+                    TelaJogo(erros, palavraOculta, dica, letrasUsadas);
+                    if (perdeu) // revela a palavra-chave, apenas caso jogador não tenha adivinhado
+                    {
+
+                        /**********************************************************************/
+                        revelaPalavra = $"! A palavra era: {palavra.ToUpper()} !"; 
+                        auxMoldura = new string('*', revelaPalavra.Length);
+                        Console.WriteLine($"\n\n {auxMoldura}");
+                        Console.WriteLine($" {revelaPalavra}");
+                        Console.WriteLine($" {auxMoldura}");
+                        /**********************************************************************/
+                        //Console.WriteLine($"\n\nA palavra era: {palavra.ToUpper()}");
+                    }
+                    Console.WriteLine("\n\n +----------------------------------+");
+                    Console.WriteLine(" | Deseja jogar novamente (s ou n)? |");
+                    Console.WriteLine(" +----------------------------------+");
+                    resposta = Console.ReadLine().ToLower();
+                    if (resposta == "s")
+                    {
+                        novaPartida = true;
+                    }
+                    else if (resposta == "n")
+                    {
+                        novaPartida = false;
+                    }
+                } while (resposta != "s" && resposta != "n");
+                #endregion
+
+            } while (novaPartida);
+
+            #region finaliza jogo
+            //Exibir estatísticas do jogo
+            //stopwatch.Stop(); // se usar o Stopwatch.StartNew()
+            //Console.WriteLine(stopwatch.ElapsedMilliseconds / 1000); 
+            Console.Clear();
+            Thread.Sleep(250);
+            Console.WriteLine($"\n\n Você jogou {totalJogos} partida(s) em {(DateTime.Now - inicio).Minutes} minuto(s) e acertou {numVitorias} palavra(s) ({(numVitorias * 100.0d/totalJogos).ToString("0.##")}%).");
+            Thread.Sleep(250);
+            Console.WriteLine("\n As palavras que você jogou foram:");
+            Thread.Sleep(250);
+            Console.WriteLine(" " + palavrasJogadas);
+            if (numVitorias > 0)
+            {
+                Thread.Sleep(250);
+                Console.WriteLine("\n As palavras que você acertou:");
+                Thread.Sleep(250);
+                Console.WriteLine(" " + palavrasAcertou);
+                foreach(string p in palavrasAcertou.Split("; ")) // verifica qual foi a maior palavra que o jogador acertou
+                {
+                    if (p.Length > numLetras)
+                    {
+                        numLetras = p.Length;
+                        maiorPalavra = p;
+                    }
+                }
+                Thread.Sleep(250);
+                Console.WriteLine($"\n A maior palavra que acertou foi {maiorPalavra}, com {numLetras} letras.");
+            }
+            Thread.Sleep(250);
+            Console.WriteLine("\n\n *************************");
+            Console.WriteLine(" * Obrigado por jogar!!! *");
+            Console.WriteLine(" *************************");
+            Console.WriteLine($"\n Pressione qualquer tecla para encerrar...");
+            Console.ReadKey(true);
+            #endregion
+        }//Fim Main
+
+        // função para validar letra informada
+        static bool LetraValida(string verLetra, string usadas)
+        {
+            if (verLetra.Length != 1) // testa se informaou apenas uma letra
+            {
+                Console.Clear();
+                Console.WriteLine("\n\n ****************************************************");
+                Console.WriteLine(" * Digite apenas uma letra entre a e z (sem acento) *");
+                Console.WriteLine(" ****************************************************");
+                Console.WriteLine($"\n Pressione qualquer tecla para continuar...");
+                Console.ReadKey(true);
+                return false;
+            }
+            else
+            {
+              
+
 
 
 
