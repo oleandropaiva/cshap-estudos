@@ -1,0 +1,15 @@
+/home/leandro/C-Sharp/forca/bin/Debug/net6.0/forca
+/home/leandro/C-Sharp/forca/bin/Debug/net6.0/forca.deps.json
+/home/leandro/C-Sharp/forca/bin/Debug/net6.0/forca.runtimeconfig.json
+/home/leandro/C-Sharp/forca/bin/Debug/net6.0/forca.dll
+/home/leandro/C-Sharp/forca/bin/Debug/net6.0/ref/forca.dll
+/home/leandro/C-Sharp/forca/bin/Debug/net6.0/forca.pdb
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.csproj.AssemblyReference.cache
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.AssemblyInfoInputs.cache
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.AssemblyInfo.cs
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.csproj.CoreCompileInputs.cache
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.dll
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/ref/forca.dll
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.pdb
+/home/leandro/C-Sharp/forca/obj/Debug/net6.0/forca.genruntimeconfig.cache
