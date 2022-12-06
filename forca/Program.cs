@@ -25,6 +25,39 @@ namespace JogoForca3
                                             {"lagartixa","Marrocos","Salvador","Marina","Leonardo"},
                                             {"ornitorrinco","Noruega","Sorocaba","Sophia","Matheus"},
                                             {"rinoceronte","Paraguai","Teresina","Valentina","Miguel"}};
+Random numAleat = new Random(); // gera número aleatório para escolher a palavra na matriz
+            bool novaPartida = false; // variável de saída do do-while que controla novas partidas
+            bool ganhou; // true quando ganhou, inicializada com false no começo de cada partida
+            bool perdeu; // true quando perdeu, inicializada com false no começo de cada partida
+            int linha; // guarda número aleatório para a linha da matriz (entre 1 e 11, na linha 0 estão as categorias)
+            int coluna; // guarda número aleatório para a coluna da matriz (decide a categoria da palavra sorteada)
+            int erros; // guarda total de erros numa partida, com 6 o jogador perde. Inicializada no começo de cada partida
+            int posLetra; // auxiliar para verificar e substituir uma letra que o jogador acertou na strings da palavra oculta
+            int totalJogos = 0; // contador do número de partidas jogadas
+            int numVitorias = 0; // contador de palavras descobertas
+            int numLetras = 0; // contador do número de letras da palavra-chave
+            string dica; // guarda a categoria da palavra-chave, determinada por matrizDePalavras[0,coluna]
+            string palavra; // guarda a palavra-chave determinada por matrizDePalavras[linha,coluna]
+            string auxPalavra; // guarda uma cópia da palavra-chave, usada como controle na busca das letras informadas
+            string letra; // palpite do jogador
+            string letrasUsadas; // guarda todas as letras já usadas na partida
+            string palavraOculta; // string composta por "_ " para cada letra da palavra-chave, conforme o jogador acerta um palpite, cada "_" é substituído pela letra informada
+            string mensagemInicial; // frase que informa ao jogador qual a dica e o número de letras da palavra-chave, inicializada no começo de cada partida
+            string revelaPalavra; // frase que revela a palavra-chave quando o jogador perde a partida, inicializada apenas se o jogador perder alguma vez
+            string auxMoldura; // auxiliar para cria uma moldura no texto apresentado ao jogador, formada por - ou *, dependendo da mensagem
+            string palavrasJogadas = ""; // guarda todas as palavras jogadas, com a última partida em primeiro
+            string palavrasAcertou = ""; // guarda todas as palavras que o jogador acertou, com a última em primeiro
+            string maiorPalavra = ""; // guarda a maior palavra que o jogador acertou, em caso de empate, fica a última delas
+            string resposta; // recebe s ou n para a pergunta se o jogador quer nova partida
+            DateTime inicio = DateTime.Now; // guarda hora de início da partida
+            //Stopwatch stopwatch = Stopwatch.StartNew(); //outra forma para marcar tempo
+            #endregion
+
+            
+
+
+
+
 
       /*   Grupo 8:
          *   - Danielle Rodrigues
