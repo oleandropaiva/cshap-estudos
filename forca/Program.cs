@@ -261,7 +261,146 @@ Random numAleat = new Random(); // gera número aleatório para escolher a palav
             }
             else
             {
-              
+              char.TryParse(verLetra, out char auxChar); // converte string para caractere para fazer comparação abaixo (string "a" -> char 'a')
+                if (auxChar >= 'a' && auxChar <= 'z') // verifica se letra está entre a e z
+                {
+                    if (usadas.IndexOf(verLetra) == -1) // procura letras na string letrasUsadas
+                    {               
+                        return true; //caso não encontre, letra é válida
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine("\n\n *********************************");
+                        Console.WriteLine(" * Letra escolhida já foi usada! *");
+                        Console.WriteLine(" *********************************");
+                        Console.WriteLine($"\n Pressione qualquer tecla para continuar...");
+                        Console.ReadKey(true);
+                        return false;
+                    }
+                }
+                else // caso caractere digitado não esteja entre a e z
+                {
+                    Console.Clear();
+                    Console.WriteLine("\n\n ****************************************************");
+                    Console.WriteLine(" * Digite apenas uma letra entre a e z (sem acento) *");
+                    Console.WriteLine(" ****************************************************");
+                    Console.WriteLine($"\n Pressione qualquer tecla para continuar...");
+                    Console.ReadKey(true);
+                    return false;
+                }
+            }
+            }//fim LetraValida
+
+        // função que imprime a tela do jogo para o usuário
+        // recebe como parâmetros o total de erros, a palavra oculta (com as letras encontradas), a dica/categoria, e a string de letras usadas
+        static void TelaJogo(int erros, string pOculta, string textoDica, string usadas)
+        {
+            Console.Clear();
+            Console.WriteLine("  +---+   ");
+            Console.WriteLine("  |   |   ");
+            // desenha a forca de acordo com o número de erros
+            if (erros > 0)
+            {
+                Console.WriteLine("  |   O   ");
+                if (erros > 1)
+                {
+                    if (erros == 2)
+                    {
+                        Console.WriteLine("  |   |   ");
+                    }
+                    else if (erros == 3)
+                    {
+                        Console.WriteLine("  |  /|   ");
+                    }
+                    else
+                    {
+                        Console.WriteLine("  |  /|\\   ");
+                    }
+                    if (erros > 4)
+                    {
+                        if (erros == 5)
+                        {
+                            Console.WriteLine("  |  /    ");
+                        }
+                        else
+                        {
+                            Console.WriteLine("  |  / \\  ");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("  |       ");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("  |       ");
+                    Console.WriteLine("  |       ");
+                }
+            }
+            else
+            {
+                Console.WriteLine("  |       ");
+                Console.WriteLine("  |       ");
+                Console.WriteLine("  |       ");
+            }
+            Console.WriteLine("  |       ");
+            Console.WriteLine(" =========");
+            Console.WriteLine($"\n {pOculta}"); // exibe a palavra oculta com as letra já 
+            Console.WriteLine($"\n Total de erros: {(erros == 5 ? $"{erros} - Última chance!!!" : erros)}"); // usa o operador ternário para incluir aviso ao jogador caso esteja na última chance
+            Console.WriteLine($" Letras usadas: {usadas.ToUpper()}");
+            Console.WriteLine($" A dica da palavra-chave é: {textoDica}");
+        }//fim TelaJogo
+
+
+        // função que exibe uma vinheta simples, na abertura do jogo e em caso de vitória ou derrota
+        static void Animacao(string tipo)
+        {
+            string[] arrTextoAnimacao;
+            int comp_animacao;
+
+            switch (tipo)
+            {
+                case "inicio":
+                    arrTextoAnimacao = new string[] { "  ______ ", " |  ____|", " | |__ ___  _ __ ___ __ _", " |  __/ _ \\| '__/ __/ _` |", " | | | (_) | | | (_| (_| |", " |_|  \\___/|_|  \\___\\__,_|" };
+                    break;
+                case "acertou":
+                    arrTextoAnimacao = new string[] { "                       _                _   _   _ ", "    /\\                | |              | | | | | |", "   /  \\   ___ ___ _ __| |_ ___  _   _  | | | | | |", "  / /\\ \\ / __/ _ \\ '__| __/ _ \\| | | | | | | | | |", " / ____ \\ (_|  __/ |  | || (_) | |_| | |_| |_| |_|", "/_/    \\_\\___\\___|_|   \\__\\___/ \\__,_| (_) (_) (_)" };
+                    break;
+                case "perdeu":
+                    arrTextoAnimacao = new string[] { "  _____             _              _   _   _ ", " |  __ \\           | |            | | | | | |", " | |__) |__ _ __ __| | ___ _   _  | | | | | |", " |  ___/ _ \\ '__/ _` |/ _ \\ | | | | | | | | |", " | |  |  __/ | | (_| |  __/ |_| | |_| |_| |_|", " |_|   \\___|_|  \\__,_|\\___|\\__,_| (_) (_) (_) " };
+                    break;
+                default:
+                    arrTextoAnimacao = new string[] { "###", "###", "###" };
+                    break;
+            }
+
+            comp_animacao = arrTextoAnimacao.Length; // guarda quantas linhas tem o texto
+
+            Console.Clear();
+
+            for (int i = (comp_animacao - 1); i >= 0; i--) // primeira iteração exibe apena a linha mais abaixo, cada nova iteração exibe uma linha a mais
+            {
+                for (int j = i; j < comp_animacao; j++)
+                {
+                    Console.WriteLine(" " + arrTextoAnimacao[j]);
+                }
+                if (i > 0) // aguarda antes de limpar a tela para nova iteração
+                {
+                    Thread.Sleep(150); //milissegundos
+                }
+                else // última iteração, texto exibido completamente
+                {
+                    Console.WriteLine("\n\n Pressione qualquer tecla para continuar...");
+                    Console.ReadKey(true);
+                }
+                Console.Clear();
+            }
+        }//fim void Animacao
+    }
+}
+
 
 
 
